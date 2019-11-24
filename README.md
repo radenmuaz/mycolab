@@ -2,7 +2,13 @@
 
 My Google Colab notebooks.
 These notebooks meant to be small enough to train in <30 minutes.
-`git clone https://github.com/radenmuaz/mycolab` or click links below to run online.
+
+Clone this repo:
+```
+git clone https://github.com/radenmuaz/mycolab
+``` 
+
+or click links below to run online.
 
 ### MNIST Classifier
 1. <a href="https://colab.research.google.com/drive/1bY2wMKuSihOdTZRWBvMSOi99h0eOXe2K">Self-attention classifier</a> 
